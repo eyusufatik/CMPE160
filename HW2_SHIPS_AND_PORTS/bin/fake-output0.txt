@@ -1,0 +1,10 @@
+Port 0: (75.00, 100.00)
+  BasicContainer: 0
+  HeavyContainer: 1
+  LiquidContainer: 2 6
+  Ship 0: 99027000.00
+    HeavyContainer: 5
+Port 1: (125.00, 100.00)
+  RefrigeratedContainer: 4
+  Ship 1: 98724000.00
+    BasicContainer: 3
